@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T05:48:52.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="nfd81FlOi1CaWQz3asPp" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T06:20:53.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="dAONr9pSoXR7rqe9YEUM" version="15.3.2" type="github">
   <diagram id="-hyImvLzOe7aT_nc4gWc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="17h3-Qqnb46YtgzxA5oR-19" value="不一致性检验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="430" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-20" value="压力(t, 1d)&lt;br&gt;温度(t, 1d)&lt;br&gt;功率(t, 1d)&lt;br&gt;可见光(t, 3d)&lt;br&gt;红外光(t, 3d)&lt;br&gt;音频(t, 1d)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
