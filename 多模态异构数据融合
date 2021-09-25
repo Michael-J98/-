@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T02:25:39.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" version="15.3.2" etag="PAU8IqyP3HhWVMmOWevc" type="github"><diagram id="-hyImvLzOe7aT_nc4gWc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-25T03:03:01.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="gRxizKIleMAk7oQ4S9xX" version="15.3.2" type="github">
+  <diagram id="-hyImvLzOe7aT_nc4gWc" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-5" value="交叉校验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-6" value="信息补全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-7" value="知识扩充" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-8" value="互补消歧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-10" value="时序关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="325" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-11" value="将新信息对齐、扩充到现有知识库中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-12" value="预测实体间关系，补充建立联系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-13" value="各模态数据相互判断是否有误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-14" value="降低单模态判断的不确定性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-15" value="描述各实体时序上的关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
