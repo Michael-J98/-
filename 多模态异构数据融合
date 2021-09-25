@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T06:20:53.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="dAONr9pSoXR7rqe9YEUM" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T07:01:57.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="i6NxVLcqbvWrZ9d0zCG_" version="15.3.2" type="github">
   <diagram id="-hyImvLzOe7aT_nc4gWc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -16,10 +16,7 @@
         <mxCell id="17h3-Qqnb46YtgzxA5oR-8" value="互补消歧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="70" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-10" value="时序关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="115" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-11" value="将新信息对齐、扩充到现有知识库中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-11" value="将新信息对齐、扩充到现有知识库中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="90" y="310" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="17h3-Qqnb46YtgzxA5oR-12" value="预测实体间关系，补充建立联系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -30,9 +27,6 @@
         </mxCell>
         <mxCell id="17h3-Qqnb46YtgzxA5oR-14" value="降低单模态判断的不确定性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="310" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-15" value="描述各实体时序上的关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="310" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="17h3-Qqnb46YtgzxA5oR-16" value="实体对齐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="105" y="430" width="70" height="20" as="geometry" />
@@ -47,7 +41,7 @@
           <mxGeometry x="357.5" y="430" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="17h3-Qqnb46YtgzxA5oR-20" value="压力(t, 1d)&lt;br&gt;温度(t, 1d)&lt;br&gt;功率(t, 1d)&lt;br&gt;可见光(t, 3d)&lt;br&gt;红外光(t, 3d)&lt;br&gt;音频(t, 1d)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;align=left;" vertex="1" parent="1">
-          <mxGeometry x="840" y="380" width="120" height="160" as="geometry" />
+          <mxGeometry x="810" y="140" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
