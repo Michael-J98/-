@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T07:01:57.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="i6NxVLcqbvWrZ9d0zCG_" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T07:24:01.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="mkW5JL_uV3r29g8tF4_p" version="15.3.2" type="github">
   <diagram id="-hyImvLzOe7aT_nc4gWc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="17h3-Qqnb46YtgzxA5oR-11" value="将新信息对齐、扩充到现有知识库中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="90" y="310" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-12" value="预测实体间关系，补充建立联系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-12" value="预测‘实体’或‘关系’" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="17h3-Qqnb46YtgzxA5oR-13" value="判断某模态出现记录错误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -31,10 +31,10 @@
         <mxCell id="17h3-Qqnb46YtgzxA5oR-16" value="实体对齐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="105" y="430" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-17" value="链接预测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-17" value="模态转换&lt;br&gt;链接预测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="235" y="430" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-18" value="【实体】与【关系】都用同一空间下的嵌入表示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-18" value="条件概率&lt;br&gt;表示学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="220" y="540" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="17h3-Qqnb46YtgzxA5oR-19" value="不一致性检验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
