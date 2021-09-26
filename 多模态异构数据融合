@@ -1,74 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T14:40:11.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="ZlhHBQTCVeP6UBDsScV6" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T15:23:52.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="OwmA4kS3trskY4eUti38" version="15.3.2" type="github">
   <diagram id="-hyImvLzOe7aT_nc4gWc" name="Page-1">
-    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-5" value="交叉校验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-5" value="交叉校验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="140" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-6" value="信息补全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-6" value="信息补全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="220" y="140" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-7" value="知识扩充" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-7" value="知识扩充" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="140" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-8" value="互补消歧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-8" value="互补消歧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="140" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-11" value="将新信息对齐、扩充到现有知识库中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="90" y="280" width="100" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-11" value="将新信息对齐、扩充到现有知识库中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="90" y="250" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-12" value="预测‘实体’或‘关系’" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="280" width="100" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-12" value="预测‘实体’或‘关系’" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="250" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-13" value="判断某模态出现记录错误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="100" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-13" value="判断某模态出现记录错误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="250" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-14" value="降低单模态判断的不确定性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="100" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-14" value="降低单模态判断的不确定性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="250" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-16" value="实体对齐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="105" y="400" width="70" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-16" value="实体对齐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="105" y="361" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-17" value="模态转换/&lt;br&gt;知识图谱补全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="400" width="85" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-17" value="知识图谱补全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="227.5" y="361" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-18" value="条件概率/&lt;br&gt;表示学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="220" y="510" width="100" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-18" value="表示学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="220" y="440" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-20" value="压力(t, 1d)&lt;br&gt;温度(t, 1d)&lt;br&gt;功率(t, 1d)&lt;br&gt;可见光(t, 3d)&lt;br&gt;红外光(t, 3d)&lt;br&gt;音频(t, 1d)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;align=left;" vertex="1" parent="1">
-          <mxGeometry x="810" y="140" width="120" height="160" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-20" value="启停(t, 1d)&lt;br&gt;压力(t, 1d)&lt;br&gt;温度(t, 1d)&lt;br&gt;功率(t, 1d)&lt;br&gt;可见光(t, 3d)&lt;br&gt;红外光(t, 3d)&lt;br&gt;音频(t, 1d)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="840" y="140" width="100" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-21" value="孤立实体预测链接：类似推荐？&lt;br&gt;根据链接预测实体：？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="195" y="590" width="150" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-21" value="1. 根据链接预测实体：根据自身及其他模态信息补全数据；&lt;br&gt;&lt;br&gt;2. 根据实体预测链接：判断这个数据从属于哪个对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="500" width="115" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;fontColor=#B3B3B3;" edge="1" parent="1" source="17h3-Qqnb46YtgzxA5oR-22" target="17h3-Qqnb46YtgzxA5oR-24">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;fontColor=#B3B3B3;" parent="1" source="17h3-Qqnb46YtgzxA5oR-22" target="17h3-Qqnb46YtgzxA5oR-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-22" value="基于表示学习的多模态知识图谱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-22" value="基于表示学习的多模态知识图谱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="20" y="60" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-24" value="Graph+Embedding" style="whiteSpace=wrap;html=1;fontSize=23;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-24" value="Graph+Embedding" style="whiteSpace=wrap;html=1;fontSize=23;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="462.5" y="40" width="227.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=23;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=23;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="690" y="10" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-27" value="条件概率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="350" y="510" width="100" height="20" as="geometry" />
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-27" value="图游走" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="350" y="440" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-28" value="向量的联合/条件概率分布" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-28" value="向量的联合/条件概率分布" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="720" y="10" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-29" value="向量运算并转译" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-29" value="向量运算并转译" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="720" y="40" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-30" value="分类" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-30" value="分类" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="720" y="70" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="17h3-Qqnb46YtgzxA5oR-31" value="回归" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="17h3-Qqnb46YtgzxA5oR-31" value="回归" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="720" y="100" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-1" value="模式识别" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="495" y="361" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-2" value="欺诈识别" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="361" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-3" value="模态转换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFA1A1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="381" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-4" value="联合概率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B3B0FF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-5" value="根据某些模态生成另一模态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="190" y="610" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-6" value="判断不同模态数据推理是否会出现矛盾" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-7" value="利用不同模态之间的互补性提高分类准确率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-8" value="分类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-9" value="语义相似度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fZ28VfWUN9uYTD37Cdqh-10" value="判断不同模态数据推理是否会出现矛盾" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="90" y="500" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
