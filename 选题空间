@@ -1,1 +1,340 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T15:50:30.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" version="15.3.7" etag="Ynuv3ck_eXy7rawATP-L" type="github"><diagram id="zJmbHvK9ztgBwemXMA0L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-04T09:38:44.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="4-hjkjrQmCG61f7SPtbg" version="15.4.1" type="github">
+  <diagram id="zJmbHvK9ztgBwemXMA0L" name="Page-1">
+    <mxGraphModel dx="3382" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-3" target="_ZaOnRT0FGVxKu2-ulo0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-3" target="_ZaOnRT0FGVxKu2-ulo0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-3" value="模态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-5" target="_ZaOnRT0FGVxKu2-ulo0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-5" value="不同来源+相同表现形式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-8" target="_ZaOnRT0FGVxKu2-ulo0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-8" target="_ZaOnRT0FGVxKu2-ulo0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-8" value="不同来源+不同表现形式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-11" target="_ZaOnRT0FGVxKu2-ulo0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-11" target="_ZaOnRT0FGVxKu2-ulo0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-11" value="多对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-13" target="_ZaOnRT0FGVxKu2-ulo0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-13" value="单对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-16" target="_ZaOnRT0FGVxKu2-ulo0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-16" target="_ZaOnRT0FGVxKu2-ulo0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-16" value="多对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-17" value="多个同类设备的同一个变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="414" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-18" value="单个设备的多个变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="414" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-19" value="多个同类设备的多个变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="823" y="414" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-20" value="多个不同类设备的多个变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="414" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-21" value="多个不同类设备的同一个变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="518" y="414" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-22" value="模态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="837" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-23" value="链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="947" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-24" value="模态+链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="1057" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-25" value="融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="942" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-26" value="变量：硬数据/软数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="414" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-27" value="交叉校验" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-28" value="&lt;font color=&quot;#000000&quot;&gt;知识表示与知识建模&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="827" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-29" value="&lt;font color=&quot;#000000&quot;&gt;知识抽取与知识挖掘&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="907" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-30" value="&lt;font color=&quot;#000000&quot;&gt;知识存储与知识融合&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="987" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-31" value="&lt;font color=&quot;#000000&quot;&gt;知识检索与知识推理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1067" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-32" value="表示" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-33" target="_ZaOnRT0FGVxKu2-ulo0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-33" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-34" value="更新" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-36" target="_ZaOnRT0FGVxKu2-ulo0-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="390" />
+              <mxPoint x="-480" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-35" value="判定" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-36" target="_ZaOnRT0FGVxKu2-ulo0-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-590" y="460" />
+              <mxPoint x="-590" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-36" value="图神经网络或其他处理方式" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-37" value="结论" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-38" value="实体链接、消歧" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-39" target="_ZaOnRT0FGVxKu2-ulo0-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-39" value="知识库：&lt;br&gt;本体、实体、表述" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="720" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-42" target="_ZaOnRT0FGVxKu2-ulo0-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-41" value="知识抽取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="_ZaOnRT0FGVxKu2-ulo0-40">
+          <mxGeometry x="-0.2857" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-42" value="数据" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="610" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-44" target="_ZaOnRT0FGVxKu2-ulo0-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-44" value="实体、关系、事件" style="whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="617.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-46" target="_ZaOnRT0FGVxKu2-ulo0-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-46" value="新知识图谱" style="whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="617.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-47" value="规则挖掘" style="whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="617.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-52" target="_ZaOnRT0FGVxKu2-ulo0-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-52" target="_ZaOnRT0FGVxKu2-ulo0-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-52" target="_ZaOnRT0FGVxKu2-ulo0-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-52" target="_ZaOnRT0FGVxKu2-ulo0-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-52" value="图嵌入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1590" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-54" target="_ZaOnRT0FGVxKu2-ulo0-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-54" value="&lt;font color=&quot;#000000&quot;&gt;节点共现&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-56" target="_ZaOnRT0FGVxKu2-ulo0-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-56" value="&lt;font color=&quot;#000000&quot;&gt;结构角色&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1565" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-58" target="_ZaOnRT0FGVxKu2-ulo0-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-58" value="&lt;font color=&quot;#000000&quot;&gt;节点状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-59" value="&lt;font color=&quot;#000000&quot;&gt;社区结构&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-60" value="节点相似性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1515" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-61" value="角色相似性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1570" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-62" value="全局状态排序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1625" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-63" value="社区发现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1685" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1490" width="370" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-65" value="异质图嵌入：所有变量在同一个维度" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1510" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-66" value="二分图嵌入：对象的交互" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1580" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-67" value="多维图嵌入：不同变量不同维度" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1650" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-68" value="&lt;font color=&quot;#000000&quot;&gt;实体&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-69" value="&lt;font color=&quot;#000000&quot;&gt;链接&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="684" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-70" value="&lt;font color=&quot;#000000&quot;&gt;整体&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="797" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-71" value="启停(t, 1d)&lt;br&gt;压力(t, 1d)&lt;br&gt;温度(t, 1d)&lt;br&gt;功率(t, 1d)&lt;br&gt;可见光(t, 3d)&lt;br&gt;红外光(t, 2d)&lt;br&gt;音频(t, 1d)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="100" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-72" value="&lt;font color=&quot;#000000&quot;&gt;生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-73" value="&lt;font color=&quot;#000000&quot;&gt;识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="569" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-74" value="&lt;font color=&quot;#000000&quot;&gt;生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="659" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-75" value="&lt;font color=&quot;#000000&quot;&gt;识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-76" value="&lt;font color=&quot;#000000&quot;&gt;识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="797" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="490" width="115" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-78" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-77">
+          <mxGeometry width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-77">
+          <mxGeometry y="69" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-80" value="策略挖掘：后一个设备是否一定在前一个之后启动？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-77">
+          <mxGeometry y="159" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-77">
+          <mxGeometry y="220" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-82" value="策略挖掘：序列启动？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-77">
+          <mxGeometry y="297" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="490" width="115" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-83">
+          <mxGeometry width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-85" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-83">
+          <mxGeometry y="69" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-86" value="策略挖掘：某个设备启动时另一个设备是否一同启动？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-83">
+          <mxGeometry y="159" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-87" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-83">
+          <mxGeometry y="220" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-83">
+          <mxGeometry y="297" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-89" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660" y="490" width="115" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-90" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-89">
+          <mxGeometry width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-89">
+          <mxGeometry y="69" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-89">
+          <mxGeometry y="159" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-93" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-89">
+          <mxGeometry y="220" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-89">
+          <mxGeometry y="297" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-95" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="810" y="490" width="115" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-96" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-95">
+          <mxGeometry width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-95">
+          <mxGeometry y="69" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-98" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-95">
+          <mxGeometry y="159" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-99" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-95">
+          <mxGeometry y="220" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-100" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-95">
+          <mxGeometry y="297" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-101" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="950" y="490" width="115" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-101">
+          <mxGeometry width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-103" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-101">
+          <mxGeometry y="69" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-104" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-101">
+          <mxGeometry y="159" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-101">
+          <mxGeometry y="220" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-106" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-101">
+          <mxGeometry y="297" width="115" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
