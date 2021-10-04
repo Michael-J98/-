@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T11:08:32.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="kKtDsnWfWtkfF6GtY6zP" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T11:09:43.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="FBeM3eOMolaYK4_urN_i" version="15.4.1" type="github">
   <diagram id="zJmbHvK9ztgBwemXMA0L" name="Page-1">
-    <mxGraphModel dx="3145" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="3382" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,6 +355,9 @@
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-119" value="故障识别：用更丰富的信息做出更精细的判断" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-114">
           <mxGeometry y="297" width="115" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-120" target="_ZaOnRT0FGVxKu2-ulo0-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-120" value="某个模态是否可信？" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
@@ -363,6 +366,9 @@
         </mxCell>
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-123" value="问题——&amp;gt;技术" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="900" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-124" value="传感器性能衰减" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
