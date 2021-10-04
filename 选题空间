@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T11:25:58.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Va-pS0Xg0DHz18w11wgn" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T11:27:15.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="wdcNHXkbTi2An0dbfBqM" version="15.4.1" type="github">
   <diagram id="zJmbHvK9ztgBwemXMA0L" name="Page-1">
-    <mxGraphModel dx="2773" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="3145" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="-700" y="942" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-26" value="变量：硬数据/软数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="414" width="120" height="20" as="geometry" />
+          <mxGeometry x="1080" y="370" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-28" value="&lt;font color=&quot;#000000&quot;&gt;知识表示与知识建模&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-370" y="827" width="120" height="30" as="geometry" />
@@ -428,6 +428,18 @@
         </mxCell>
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-141" value="某模态数据是否偏离过多？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="490" y="1500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-145" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-146" target="_ZaOnRT0FGVxKu2-ulo0-147">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="460" as="sourcePoint" />
+            <mxPoint x="320" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-146" value="对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-147" value="动作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="290" y="845" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
