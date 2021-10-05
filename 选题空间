@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T01:32:48.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="T8RgXHbeHL-aaXDyTMYn" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T02:15:53.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="RiTs5OA3O10tSEoFK9iz" version="15.4.1" type="github">
   <diagram id="zJmbHvK9ztgBwemXMA0L" name="Page-1">
     <mxGraphModel dx="3145" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -463,14 +463,17 @@
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-147" value="动作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="290" y="845" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-148" value="一种基于多模态数据的高容错、持久化运维方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="330" y="1230" width="290" height="30" as="geometry" />
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-148" value="一种基于多模态信息的传感器高可用运维方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="335" y="1240" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-155" value="基于多模态信息的解码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="440" y="1430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-160" value="其他下游应用" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="778" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-167" value="1. 先前缺失数据填充多为单模态间插补&lt;br&gt;2. 利用多模态信息方法多已确定缺失数据&lt;br&gt;3. 重点不是在于故障诊断，而是在于维持传感器的‘可用性’，故障诊断是附带的" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1210" width="440" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
