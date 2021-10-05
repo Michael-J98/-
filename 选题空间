@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T09:57:27.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="KmWco7XJ0-Lrp3kiEAEd" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T10:28:36.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="EghDFYY9ikrW36Vu3DqL" version="15.4.1" type="github">
   <diagram id="zJmbHvK9ztgBwemXMA0L" name="Page-1">
-    <mxGraphModel dx="3145" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="2773" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,6 +474,85 @@
         </mxCell>
         <mxCell id="_ZaOnRT0FGVxKu2-ulo0-167" value="1. 先前缺失数据填充多为单模态间插补；&lt;br&gt;1. 单模态对于故障数据无从得知是检测对象故障还是其自身故障；&lt;br&gt;2. (利用多模态信息)方法多已知数据或异常，但实际情况可能不知道；&lt;br&gt;3. 传统对于缺失数据的处理是单向地填补数据完成下游任务，而不能反向指导数据质量修复；&lt;br&gt;4. 重点不是在于故障诊断，而是在于维持传感器的‘可用性’，故障诊断是附带的；&lt;br&gt;5. 小样本怎么办？用图来做？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="720" y="1109.5" width="520" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-171" value="&lt;font color=&quot;#000000&quot;&gt;否&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#FF0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-168" target="_ZaOnRT0FGVxKu2-ulo0-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1670" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-172" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#FF0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-168" target="_ZaOnRT0FGVxKu2-ulo0-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1900" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-173" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="_ZaOnRT0FGVxKu2-ulo0-172">
+          <mxGeometry x="-0.1419" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-168" value="&lt;font color=&quot;#000000&quot;&gt;数据看起来是否‘正常’&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="995" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-174" value="结束：正常数据的应用" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1249.5" width="90" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-176" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-175" target="_ZaOnRT0FGVxKu2-ulo0-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-175" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="893.5" width="90" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-185" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1750" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-177" value="&lt;font color=&quot;#000000&quot;&gt;‘不正常’是否可信？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-180" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1249.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-183" value="是" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-181" target="_ZaOnRT0FGVxKu2-ulo0-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-184" value="否" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="_ZaOnRT0FGVxKu2-ulo0-181" target="_ZaOnRT0FGVxKu2-ulo0-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-181" value="&lt;font color=&quot;#000000&quot;&gt;‘正常’是否可信？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-182" value="&lt;font color=&quot;#000000&quot;&gt;不可信原因在哪里？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1249.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-186" value="结束：异常数据分析及响应" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1249.5" width="90" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-187" value="不正常：数值偏离、数值缺失、数值固定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1145" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-188" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="960" as="sourcePoint" />
+            <mxPoint x="2180" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-189" value="灰色地带" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#000000;" connectable="0" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-190" value="正常" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=12;fontColor=#000000;" connectable="0" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-188">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-191" value="异常" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;fontColor=#000000;" connectable="0" vertex="1" parent="_ZaOnRT0FGVxKu2-ulo0-188">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZaOnRT0FGVxKu2-ulo0-192" value="" style="shape=link;html=1;rounded=0;fontSize=12;fontColor=#000000;width=68.85714285714286;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="2180" y="1040" as="sourcePoint" />
+            <mxPoint x="2360" y="1040" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
