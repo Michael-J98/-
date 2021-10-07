@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T07:16:03.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="UMzapzy56Pwk99jolXyo" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T03:21:28.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="aC643EksC7870RFcjy_c" version="15.3.8" type="github">
   <diagram id="SxAOMZfTlmHuMx4pl9gh" name="Page-1">
-    <mxGraphModel dx="2097" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2309" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,6 +574,51 @@
         </mxCell>
         <mxCell id="6evKLQCgZQ1bsbUpbEgK-230" value="创新点：兼容各种类型数据清洗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-219">
           <mxGeometry x="1370" y="900" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-232" value="主要难点" style="swimlane;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="170" width="720" height="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="6evKLQCgZQ1bsbUpbEgK-232" source="6evKLQCgZQ1bsbUpbEgK-233" target="6evKLQCgZQ1bsbUpbEgK-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-233" value="&lt;font color=&quot;#000000&quot;&gt;获取‘完备’的多模态数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+          <mxGeometry x="300" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-239" value="适当的关联表示：模态间既需要有一定的关联来提供其他模态的信息，但关联又不可以过强以干扰其他模态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+          <mxGeometry x="60" y="324" width="200" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-240" value="各路公开数据集" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+          <mxGeometry x="550" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="6evKLQCgZQ1bsbUpbEgK-232" source="6evKLQCgZQ1bsbUpbEgK-236" target="6evKLQCgZQ1bsbUpbEgK-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-236" value="多模态估计模型训练" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+          <mxGeometry x="300" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-234" value="多模态数据时空关联性捕捉结构设计" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#000000;" edge="1" parent="6evKLQCgZQ1bsbUpbEgK-232" source="6evKLQCgZQ1bsbUpbEgK-233" target="6evKLQCgZQ1bsbUpbEgK-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="6evKLQCgZQ1bsbUpbEgK-232" source="6evKLQCgZQ1bsbUpbEgK-234" target="6evKLQCgZQ1bsbUpbEgK-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-242" value="人造传感器异常：缺失、固定偏置、累计偏置、死值..." style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+          <mxGeometry x="550" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="6evKLQCgZQ1bsbUpbEgK-232" source="6evKLQCgZQ1bsbUpbEgK-244" target="6evKLQCgZQ1bsbUpbEgK-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-244" value="误差历史分析，传感器故障识别" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+          <mxGeometry x="300" y="999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="6evKLQCgZQ1bsbUpbEgK-232" source="6evKLQCgZQ1bsbUpbEgK-236" target="6evKLQCgZQ1bsbUpbEgK-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-246" value="序列信号分类" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+          <mxGeometry x="550" y="999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
