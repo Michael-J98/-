@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T11:29:57.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="2ZB221UE_lzO5smguoGi" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T12:18:00.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="T48vWxv4OyjUKnFrhvaE" version="15.4.3" type="github">
   <diagram id="SxAOMZfTlmHuMx4pl9gh" name="Page-1">
     <mxGraphModel dx="2500" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -662,8 +662,8 @@
             <mxPoint y="-139" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_cxbpCzVd2-hxs63q74-28" value="编码：&lt;br&gt;1. 分别压缩掉时间、空间维度；&lt;br&gt;2. 二维的图卷积生成关于时间、空间特征嵌入；&lt;br&gt;3. 组合时间、空间特征嵌入为隐空间表示&lt;br&gt;&lt;br&gt;解码：&lt;br&gt;1. 将隐空间表示分解为时间表示与空间表示；&lt;br&gt;2. 分别解码时间表示与空间表示；&lt;br&gt;3. 组合还原时间表示与空间表示&lt;br&gt;&lt;br&gt;难点：&lt;br&gt;1. 如何规定时间维度下与空间维度下传感器间的关系？&lt;br&gt;2. 如何组合、分解时间特征与空间特征？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3482" y="421" width="308" height="200" as="geometry" />
+        <mxCell id="Q_cxbpCzVd2-hxs63q74-28" value="压缩掉时间或空间维度，分别做空间特征嵌入与时间特征嵌入&lt;br&gt;&lt;br&gt;难点：&lt;br&gt;1. 如何规定时间维度下与空间维度下传感器间的关系？&lt;br&gt;2. 如何组合、分解时间特征与空间特征？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3482" y="470.75" width="308" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
