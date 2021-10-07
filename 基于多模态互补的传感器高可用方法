@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T06:30:37.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="I7d9y8NA0Ye7bJnfU_Bt" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T10:32:10.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="ugKAaxBrJ1Ez3Qq6H2lM" version="15.4.3" type="github">
   <diagram id="SxAOMZfTlmHuMx4pl9gh" name="Page-1">
-    <mxGraphModel dx="1808" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -584,7 +584,7 @@
         <mxCell id="6evKLQCgZQ1bsbUpbEgK-233" value="&lt;font color=&quot;#000000&quot;&gt;获取‘完备’的多模态数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;fillColor=#FFFFFF;" parent="6evKLQCgZQ1bsbUpbEgK-232" vertex="1">
           <mxGeometry x="300" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6evKLQCgZQ1bsbUpbEgK-239" value="维持“适当”程度的关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="6evKLQCgZQ1bsbUpbEgK-232" vertex="1">
+        <mxCell id="6evKLQCgZQ1bsbUpbEgK-239" value="1. 不同模态的适当权重&lt;br&gt;2. 不同模态的对齐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="6evKLQCgZQ1bsbUpbEgK-232" vertex="1">
           <mxGeometry x="60" y="324" width="200" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6evKLQCgZQ1bsbUpbEgK-240" value="各路公开数据集" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" parent="6evKLQCgZQ1bsbUpbEgK-232" vertex="1">
@@ -623,7 +623,7 @@
         <mxCell id="6evKLQCgZQ1bsbUpbEgK-246" value="序列信号分类" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" parent="6evKLQCgZQ1bsbUpbEgK-232" vertex="1">
           <mxGeometry x="550" y="999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q_cxbpCzVd2-hxs63q74-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
+        <mxCell id="Q_cxbpCzVd2-hxs63q74-1" value="时空图？" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="6evKLQCgZQ1bsbUpbEgK-232">
           <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
