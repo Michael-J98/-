@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T11:31:18.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="5YUTcsyQkvZKTn_OvFH7" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T11:32:05.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="xwp5jJ6HbLV3D-NtIi4X" version="15.5.6" type="github">
   <diagram id="etHCas97k4E4dvr_SMyp" name="Page-1">
-    <mxGraphModel dx="1778" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2223" dy="2235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,6 +149,9 @@
         </mxCell>
         <mxCell id="d7Y32TVuvgQDcrVobxH4-4" value="&lt;h1&gt;名词解释&lt;/h1&gt;&lt;p&gt;客观对象：现实世界中的某个独一无二的存在，如水泵；&lt;/p&gt;&lt;p&gt;ID：用于描述「客观对象」的独一无二性；&lt;/p&gt;&lt;p&gt;特征：某一「客观对象」易于或可被（传感器）观测到的部分，由「特征集合A」、「特征集合B」、「其余特征集合C」构成；&lt;/p&gt;&lt;p&gt;特征集合A：对于「客观对象」一部分特征的描述，该集合既被事先注册到数据库中，又可以事后被对应传感器观测，用于实体对齐（如外观图片、地点信息、固定流量传感器编号）；&lt;/p&gt;&lt;p&gt;实体对齐：数据库中存在关于某一「客观对象」的概念，现实中传感器观测到某些对于具体物质的描述，将描述与概念建立对应关系的过程称为实体对齐；&lt;/p&gt;&lt;p&gt;特征集合B：「客观对象」另一部分特征的描述，该部分特征没有被事先注册到数据库中，但可以被传感器观测到（如红外、声音）；&lt;/p&gt;&lt;p&gt;其余特征集合C：因为理性的有限性，无法完整描述「客观对象」的所有特征，在上述「特征」的定义下，集合C作为A并B的补集存在；&lt;/p&gt;&lt;p&gt;属性：某一「客观对象」被人主观赋予的，难以或不可被（传感器）观测的部分，由「属性集合A」、「其余属性集合B」构成；&lt;/p&gt;&lt;p&gt;属性集合A：对于「客观对象」一部分属性的描述，被事先注册到数据库中（如水泵序号、生产厂家、固定流量传感器编号）；&lt;/p&gt;&lt;p&gt;其余属性集合B：同样作为「属性集合A」的补集而存在；&lt;/p&gt;&lt;p&gt;数据库模块：记录每个「客观对象」事先注册的特征与属性；&lt;/p&gt;&lt;p&gt;传感器模块：用于观测「客观对象」，由便携传感器（如红外传感器）与固定传感器（如流量传感器）构成；&lt;/p&gt;&lt;p&gt;对象描述模块：结合先验信息与事实观测描述某个「客观对象」，包括基于「特征集合A」的「实体对齐」，与基于「特征集合B」的「特征补充」；&lt;/p&gt;&lt;p&gt;特征补充：由于数据库中事先只注册了某个「客观对象」的一部分「特征集合A」，该环节补充另外一部分「特征集合B」；&lt;/p&gt;&lt;p&gt;对象处理模块：得到更完整的关于某个「客观对象」的描述后，可以对该对象的特征以及属性通过各种算法进行处理（如健康状态评估、故障诊断）；&lt;/p&gt;&lt;p&gt;环境组织模块：通过「对象处理模块」得到传感器观测范围内的所有「客观对象」及其处理信息后，控制这些对象与信息如何组织反馈给用户（如可视化、触觉、温度等）；&lt;/p&gt;&lt;p&gt;反馈接受模块：用于接收「环境组织模块」的信息，并返回作用于用户的特定感官（如显示屏、手套、背心）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="-580" width="1030" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="d7Y32TVuvgQDcrVobxH4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-620" width="1150" height="1440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
