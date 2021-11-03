@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T14:06:31.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="dHl6CN_f1oQSRoiGYxZp" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T14:07:46.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="rTvo0xiaQ8gZrAfJwPkv" version="15.6.6" type="github">
   <diagram id="o7dWsT7AQynXzJFn2kmL" name="Page-1">
     <mxGraphModel dx="1038" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -67,16 +67,16 @@
         <mxCell id="D-FSOOxesLegInhiJ3jU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-5" target="D-FSOOxesLegInhiJ3jU-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1170" y="529" />
-              <mxPoint x="1170" y="408" />
+              <mxPoint x="1170" y="619" />
+              <mxPoint x="1170" y="498" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-5" target="D-FSOOxesLegInhiJ3jU-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1140" y="544" />
-              <mxPoint x="1140" y="287" />
+              <mxPoint x="1140" y="634" />
+              <mxPoint x="1140" y="377" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -84,7 +84,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-5" value="每个邻居节点N*对节点N数值进行推断" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="499" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="589" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-6" target="D-FSOOxesLegInhiJ3jU-8">
           <mxGeometry relative="1" as="geometry" />
@@ -93,92 +93,89 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-6" value="遍历节点N从属的每个社群G" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;labelBackgroundColor=default;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="257" width="100" height="60" as="geometry" />
+          <mxGeometry x="1230" y="347" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-8" target="D-FSOOxesLegInhiJ3jU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-8" value="遍历社群G中的每个邻居节点N*&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;labelBackgroundColor=default;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="378" width="100" height="60" as="geometry" />
+          <mxGeometry x="1230" y="468" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-13" value="基于同一社群内的一致性进行推断" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="514" width="90" height="30" as="geometry" />
+          <mxGeometry x="1380" y="604" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-14" target="D-FSOOxesLegInhiJ3jU-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-14" value="节点N对自身数值进行推断" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-15" target="D-FSOOxesLegInhiJ3jU-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-15" value="更新当前时刻节点N【数据信任度】" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="741" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="831" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-17" target="D-FSOOxesLegInhiJ3jU-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-17" value="更新当前时刻节点N【节点信任度】" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="862" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="952" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-19" value="根据不同节点的节点信任度及不同节点的不同影响程度" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="756" width="90" height="30" as="geometry" />
+          <mxGeometry x="1380" y="846" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-20" value="根据当前数据信任度及历史节点信任度" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="877" width="90" height="30" as="geometry" />
+          <mxGeometry x="1380" y="967" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-21" target="D-FSOOxesLegInhiJ3jU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-21" value="遍历每个节点N" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;labelBackgroundColor=default;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="136" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="D-FSOOxesLegInhiJ3jU-22" value="分布式/集中式的信任推断" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="70" width="140" height="30" as="geometry" />
+          <mxGeometry x="1230" y="226" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-27" target="D-FSOOxesLegInhiJ3jU-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-27" value="显示所有节点信任度" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="983" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="1073" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-28" target="D-FSOOxesLegInhiJ3jU-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-28" value="信任度评判" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1104" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="1194" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-29" target="D-FSOOxesLegInhiJ3jU-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-29" value="某一时刻t" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;labelBackgroundColor=default;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="-100" width="100" height="60" as="geometry" />
+          <mxGeometry x="1230" y="-10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-30" target="D-FSOOxesLegInhiJ3jU-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="1255" />
-              <mxPoint x="1120" y="-70" />
+              <mxPoint x="1120" y="1345" />
+              <mxPoint x="1120" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-30" value="进入下一时刻" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=default;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1225" width="100" height="60" as="geometry" />
+          <mxGeometry x="1230" y="1315" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-45" value="如何定义具有一致性相互约束关系的社群？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="257" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="347" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-46" value="每个节点如何维护其他节点的评分？多变量约束关系之间如何进行单对单推理？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="499" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="589" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-53" value="不同社群看待数据的角度相互补充" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="272" width="90" height="30" as="geometry" />
+          <mxGeometry x="1380" y="362" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;endArrow=none;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-6" target="D-FSOOxesLegInhiJ3jU-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1330" y="287" as="sourcePoint" />
-            <mxPoint x="1640" y="287" as="targetPoint" />
+            <mxPoint x="1330" y="377" as="sourcePoint" />
+            <mxPoint x="1640" y="377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-55" target="D-FSOOxesLegInhiJ3jU-21">
@@ -188,13 +185,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-55" value="更新图表示" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-58" target="D-FSOOxesLegInhiJ3jU-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-58" value="如何恰当地对图进行设计" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
