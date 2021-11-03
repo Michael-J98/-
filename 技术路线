@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T02:38:04.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="g1-LjDrOBShzWZLStq4l" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T02:46:01.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="wYtNO-EoUPwfYk2cj0l0" version="15.6.6" type="github">
   <diagram id="o7dWsT7AQynXzJFn2kmL" name="Page-1">
     <mxGraphModel dx="1038" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="D-FSOOxesLegInhiJ3jU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-6" target="D-FSOOxesLegInhiJ3jU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D-FSOOxesLegInhiJ3jU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;dashed=1;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-6" target="D-FSOOxesLegInhiJ3jU-45">
+        <mxCell id="D-FSOOxesLegInhiJ3jU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-6" target="D-FSOOxesLegInhiJ3jU-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-6" value="遍历节点N从属的每个社群G" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;labelBackgroundColor=default;fontColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="1">
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-46" value="不同类型的节点之间如何进行推断" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1640" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-FSOOxesLegInhiJ3jU-50" value="不同社群看待数据的角度不一致" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="260.5" width="90" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
