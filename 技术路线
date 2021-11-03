@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T14:10:51.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="6JSbHqpDstsJRlmZnNNq" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T14:12:32.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="HBJmamN9rCJXnCqu6-43" version="15.6.6" type="github">
   <diagram id="o7dWsT7AQynXzJFn2kmL" name="Page-1">
     <mxGraphModel dx="1038" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -78,6 +78,11 @@
               <mxPoint x="1140" y="634" />
               <mxPoint x="1140" y="377" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D-FSOOxesLegInhiJ3jU-61" value="弹性选取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;" vertex="1" connectable="0" parent="D-FSOOxesLegInhiJ3jU-42">
+          <mxGeometry x="0.7405" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-5" target="D-FSOOxesLegInhiJ3jU-46">
