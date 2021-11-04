@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T06:14:24.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="67rR7iKiBLVOsIIUkeUn" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T06:15:09.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="Pe4Kjk-whXKoKagvNJuL" version="15.6.6" type="github">
   <diagram id="o7dWsT7AQynXzJFn2kmL" name="Page-1">
     <mxGraphModel dx="865" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="D-FSOOxesLegInhiJ3jU-45" value="如何定义具有一致性相互约束关系的社群？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1640" y="347" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D-FSOOxesLegInhiJ3jU-46" value="异构数据之间如何进行推断？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="D-FSOOxesLegInhiJ3jU-46" value="异构数据之间如何进行推断？多跳邻居之间如何进行推断？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1640" y="589" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-53" value="同构社群、异构社群、间接跨越社群" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
