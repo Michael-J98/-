@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T06:12:41.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="XL8LnD3ZboYJEhUlG7mr" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T06:14:24.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="67rR7iKiBLVOsIIUkeUn" version="15.6.6" type="github">
   <diagram id="o7dWsT7AQynXzJFn2kmL" name="Page-1">
     <mxGraphModel dx="865" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
         <mxCell id="D-FSOOxesLegInhiJ3jU-46" value="异构数据之间如何进行推断？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1640" y="589" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D-FSOOxesLegInhiJ3jU-53" value="不同社群看待数据的角度相互补充" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="D-FSOOxesLegInhiJ3jU-53" value="同构社群、异构社群、间接跨越社群" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1380" y="362" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-FSOOxesLegInhiJ3jU-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;endArrow=none;" edge="1" parent="1" source="D-FSOOxesLegInhiJ3jU-6" target="D-FSOOxesLegInhiJ3jU-53">
