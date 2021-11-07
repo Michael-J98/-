@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T14:23:35.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="TXMPpsjRbgerv2SQNOXg" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T14:25:00.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="uNm2zExCTfoYJ2lUo2Tt" version="15.7.0" type="github">
   <diagram id="o7dWsT7AQynXzJFn2kmL" name="Page-1">
     <mxGraphModel dx="1038" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
           <mxGeometry x="610" y="1480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6eBvKnWhZDyZFE8Kyk8s-9" value="传感器网络置信度分析具有中心化分析方式与去中心化分析方式，但冷热源系统传感器网络中并非在所有建筑中都地位平等，而是采用分布式控制系统，具有中心控制节点，所以不适用于去中心化方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1440" width="210" height="30" as="geometry" />
+          <mxGeometry x="870" y="1440" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6eBvKnWhZDyZFE8Kyk8s-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6eBvKnWhZDyZFE8Kyk8s-10" target="6eBvKnWhZDyZFE8Kyk8s-24">
           <mxGeometry relative="1" as="geometry" />
