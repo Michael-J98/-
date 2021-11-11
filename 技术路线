@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T03:47:59.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="JbKYdXw4xB9yRt5qeas7" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T02:20:47.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="mC9dPRUtmkVbDtILNCC8" version="15.7.0" type="github">
   <diagram id="o7dWsT7AQynXzJFn2kmL" name="Page-1">
-    <mxGraphModel dx="1038" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="5190" dy="3145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -332,6 +332,130 @@
         </mxCell>
         <mxCell id="6eBvKnWhZDyZFE8Kyk8s-37" value="显示当前时刻信任度" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1720" y="1940" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-4" target="OjvYcl6RUmOMC-3rqVjm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-4" target="OjvYcl6RUmOMC-3rqVjm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-4" target="OjvYcl6RUmOMC-3rqVjm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-4" value="结构因果模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1595" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-5" value="" style="swimlane;horizontal=0;startSize=50;fontStyle=1;fontSize=17;flipV=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="1360" width="550" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="OjvYcl6RUmOMC-3rqVjm-5" source="OjvYcl6RUmOMC-3rqVjm-7" target="OjvYcl6RUmOMC-3rqVjm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-7" value="T时刻数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=default;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-5">
+          <mxGeometry x="225" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-8" value="有向无环图生成" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-5">
+          <mxGeometry x="215" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-9" value="引入系统状态隐变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-5">
+          <mxGeometry x="70" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-10" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;图数据结构构建&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-5">
+          <mxGeometry x="20" y="70" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-11" value="" style="swimlane;horizontal=0;startSize=50;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="1540" width="550" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-12" value="社群选择" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-11">
+          <mxGeometry x="225" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-13" value="多层次社群划分&lt;br&gt;存在最小社群数量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-11">
+          <mxGeometry x="70" y="55" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-14" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;一致性社群划分&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-11">
+          <mxGeometry x="20" y="55" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-15" value="" style="swimlane;horizontal=0;startSize=50;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="1680" width="550" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-16" value="结构方程模型/&lt;br&gt;基本概率分配函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-15">
+          <mxGeometry x="70" y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-17" value="成员节点交叉推断" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-15">
+          <mxGeometry x="215" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;多视角变量推断&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-15">
+          <mxGeometry x="20" y="60" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-19" value="" style="swimlane;horizontal=0;startSize=50;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="1830" width="550" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-20" value="多视角加权融合/&lt;br&gt;DS证据理论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-19">
+          <mxGeometry x="70" y="45" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-21" value="聚合数据信任度" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-19">
+          <mxGeometry x="215" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-22" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;推断结果调和&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-19">
+          <mxGeometry x="20" y="50" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-23" value="" style="swimlane;horizontal=0;startSize=50;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="1960" width="550" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-24" value="历史加权融合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-23">
+          <mxGeometry x="70" y="45" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="OjvYcl6RUmOMC-3rqVjm-23" source="OjvYcl6RUmOMC-3rqVjm-26" target="OjvYcl6RUmOMC-3rqVjm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-26" value="更新节点信任度" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-23">
+          <mxGeometry x="215" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-27" value="T时刻信任评估结果" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-23">
+          <mxGeometry x="217.5" y="110" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-28" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;信任演化&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="OjvYcl6RUmOMC-3rqVjm-23">
+          <mxGeometry x="20" y="65" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-17" target="OjvYcl6RUmOMC-3rqVjm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-21" target="OjvYcl6RUmOMC-3rqVjm-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-8" target="OjvYcl6RUmOMC-3rqVjm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-12" target="OjvYcl6RUmOMC-3rqVjm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-33" value="下一社群" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-26" target="OjvYcl6RUmOMC-3rqVjm-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2610" y="2005" />
+              <mxPoint x="2610" y="1610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-34" value="下一时刻" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-27" target="OjvYcl6RUmOMC-3rqVjm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2680" y="2090" />
+              <mxPoint x="2680" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-38" target="OjvYcl6RUmOMC-3rqVjm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-38" target="OjvYcl6RUmOMC-3rqVjm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="OjvYcl6RUmOMC-3rqVjm-38" target="OjvYcl6RUmOMC-3rqVjm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjvYcl6RUmOMC-3rqVjm-38" value="信任评估模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1880" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
