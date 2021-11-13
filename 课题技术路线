@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T07:42:29.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="VqUndReooxOnMDJuo4a-" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T08:03:35.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="kLLJiTYuFKjjO6jsdbnS" version="15.7.3" type="github">
   <diagram id="0wsVQv3pivQ5QsgPIZOI" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,25 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-1" value="基于专家知识规定传感器因果图生成规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="67" width="130" height="40" as="geometry" />
+          <mxGeometry x="106" y="67" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrH8kYIaKA43lUyu1RYk-2" target="FrH8kYIaKA43lUyu1RYk-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-2" value="基于图上因果关系划分节点社群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="123" width="130" height="40" as="geometry" />
+          <mxGeometry x="106" y="123" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrH8kYIaKA43lUyu1RYk-3" target="FrH8kYIaKA43lUyu1RYk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-3" value="社群内节点交叉推断建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="179" width="130" height="40" as="geometry" />
+          <mxGeometry x="106" y="179" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrH8kYIaKA43lUyu1RYk-4" target="FrH8kYIaKA43lUyu1RYk-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-4" value="推断结果调和建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="234" width="130" height="40" as="geometry" />
+          <mxGeometry x="106" y="234" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-12" value="结构信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrH8kYIaKA43lUyu1RYk-10" target="FrH8kYIaKA43lUyu1RYk-1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-10" value="某冷热源传感器网络" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="10" width="78" height="50" as="geometry" />
+          <mxGeometry x="278" y="10" width="78" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrH8kYIaKA43lUyu1RYk-13" target="FrH8kYIaKA43lUyu1RYk-23">
           <mxGeometry relative="1" as="geometry" />
@@ -44,22 +44,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-13" value="传感器数据信任评估模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="107" width="150" height="40" as="geometry" />
+          <mxGeometry x="356" y="107" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-18" value="信任演化建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="290" width="130" height="40" as="geometry" />
+          <mxGeometry x="106" y="290" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="FrH8kYIaKA43lUyu1RYk-20" target="FrH8kYIaKA43lUyu1RYk-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="67" width="20" height="263" as="geometry" />
+          <mxGeometry x="246" y="67" width="20" height="263" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-23" value="数据信任得分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="234" width="130" height="40" as="geometry" />
+          <mxGeometry x="286" y="234" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-24" value="传感器信任得分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="234" width="130" height="40" as="geometry" />
+          <mxGeometry x="446" y="234" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FrH8kYIaKA43lUyu1RYk-30" value="系统状态隐变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="72" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrH8kYIaKA43lUyu1RYk-31" value="多层次社群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="128" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrH8kYIaKA43lUyu1RYk-32" value="结构因果模型&lt;br&gt;基本概率分配函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="184" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrH8kYIaKA43lUyu1RYk-33" value="加权融合&lt;br&gt;DS证据理论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="239" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrH8kYIaKA43lUyu1RYk-34" value="加权融合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="295" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
