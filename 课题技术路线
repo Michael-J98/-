@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T08:03:35.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="kLLJiTYuFKjjO6jsdbnS" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T08:04:52.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="oCH4jSrg1sllGHEqHplD" version="15.7.3" type="github">
   <diagram id="0wsVQv3pivQ5QsgPIZOI" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -61,13 +61,13 @@
         <mxCell id="FrH8kYIaKA43lUyu1RYk-24" value="传感器信任得分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446" y="234" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrH8kYIaKA43lUyu1RYk-30" value="系统状态隐变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="72" width="90" height="30" as="geometry" />
+        <mxCell id="FrH8kYIaKA43lUyu1RYk-30" value="引入状态隐变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="72" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-31" value="多层次社群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="128" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FrH8kYIaKA43lUyu1RYk-32" value="结构因果模型&lt;br&gt;基本概率分配函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FrH8kYIaKA43lUyu1RYk-32" value="结构方程&lt;br&gt;基本概率分配函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5" y="184" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrH8kYIaKA43lUyu1RYk-33" value="加权融合&lt;br&gt;DS证据理论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
