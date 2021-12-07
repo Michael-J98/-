@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T02:52:01.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="UyLCSyU06qAXLjba3KxK" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T11:26:46.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="YCSR0p8zcWgxBJLMRTQa" version="15.8.8" type="github">
   <diagram id="L6URuS56ldysC5m13t3J" name="Page-1">
-    <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,14 +13,29 @@
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-1" target="RZZvQAKBbw5xmmNcZ7Hp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-1" target="RZZvQAKBbw5xmmNcZ7Hp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-1" target="RZZvQAKBbw5xmmNcZ7Hp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-1" target="RZZvQAKBbw5xmmNcZ7Hp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-1" target="RZZvQAKBbw5xmmNcZ7Hp-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-1" value="冷却塔组1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="160" width="90" height="40" as="geometry" />
+          <mxGeometry x="155" y="10" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-2" target="RZZvQAKBbw5xmmNcZ7Hp-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-2" value="冷却塔" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="240" width="70" height="30" as="geometry" />
+          <mxGeometry x="230" y="240" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-3" value="冷却塔组1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="490" width="90" height="40" as="geometry" />
@@ -34,11 +49,14 @@
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-5" value="冷却塔" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-8" target="RZZvQAKBbw5xmmNcZ7Hp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-8" value="冷却塔进水温度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="60" width="40" height="40" as="geometry" />
+          <mxGeometry x="800" y="-155" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-11" value="频率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="235" y="300" width="40" height="40" as="geometry" />
+          <mxGeometry x="245" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-12" value="频率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="315" y="300" width="40" height="40" as="geometry" />
@@ -55,8 +73,32 @@
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.342;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-15" target="RZZvQAKBbw5xmmNcZ7Hp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-15" value="冷却泵组1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="60" width="90" height="40" as="geometry" />
+          <mxGeometry x="655" y="10" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-16" target="RZZvQAKBbw5xmmNcZ7Hp-21">
           <mxGeometry relative="1" as="geometry" />
@@ -79,14 +121,86 @@
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-21" value="频率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="655" y="190" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-22" value="压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-22" value="冷却泵出口压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="545" y="190" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-28" value="频率" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="725" y="190" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-30" value="压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-30" value="冷却泵出口压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-33" value="冷机组冷却水进水温度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-37" value="冷却水进水温度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-38" value="冷却水进水温度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-43" value="设备状态：开、关、冷凝器阀门开、冷凝器阀门关..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-44" target="RZZvQAKBbw5xmmNcZ7Hp-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-44" target="RZZvQAKBbw5xmmNcZ7Hp-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-44" target="RZZvQAKBbw5xmmNcZ7Hp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-44" target="RZZvQAKBbw5xmmNcZ7Hp-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-44" target="RZZvQAKBbw5xmmNcZ7Hp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-44" value="冷机组1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-46" target="RZZvQAKBbw5xmmNcZ7Hp-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-45" target="RZZvQAKBbw5xmmNcZ7Hp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-45" target="RZZvQAKBbw5xmmNcZ7Hp-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-45" target="RZZvQAKBbw5xmmNcZ7Hp-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-45" value="冷机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-46" target="RZZvQAKBbw5xmmNcZ7Hp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZZvQAKBbw5xmmNcZ7Hp-46" target="RZZvQAKBbw5xmmNcZ7Hp-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-46" value="冷机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-49" value="冷却水进水压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-52" value="冷却水出水压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-56" value="冷却水进水压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-57" value="冷却水出水压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-63" value="冷却水出水温度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZZvQAKBbw5xmmNcZ7Hp-64" value="冷却水出水温度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-80" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
