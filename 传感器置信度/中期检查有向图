@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T11:51:16.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="29Y4nOBqsrGsKRsewGDv" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T12:03:46.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="ri_-uQHoLjbtkplWKCoL" version="15.9.1" type="github">
   <diagram id="06Hv0IDrocFG8YHfGYAS" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,19 +139,19 @@
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-111" value="出水温度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="729.9399999999999" y="220" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-112" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-113" target="wB2qTIF_pQX-QRq0Hj0j-70">
+        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-112" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-113" target="wB2qTIF_pQX-QRq0Hj0j-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-113" value="控制逻辑" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="153" y="60" width="62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-114" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-115" target="wB2qTIF_pQX-QRq0Hj0j-85">
+        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-114" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-115" target="wB2qTIF_pQX-QRq0Hj0j-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-115" value="控制逻辑" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="60" width="62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-116" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-117" target="wB2qTIF_pQX-QRq0Hj0j-102">
+        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-116" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-117" target="wB2qTIF_pQX-QRq0Hj0j-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-117" value="控制逻辑" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
@@ -298,7 +298,7 @@
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-164" value="压力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="178.99999999999997" y="270" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-165" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-171" target="wB2qTIF_pQX-QRq0Hj0j-143">
+        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-165" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-171" target="wB2qTIF_pQX-QRq0Hj0j-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-166" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-171" target="wB2qTIF_pQX-QRq0Hj0j-130">
@@ -319,13 +319,13 @@
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-171" value="冷冻水" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="499.96999999999997" y="430" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-172" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-173" target="wB2qTIF_pQX-QRq0Hj0j-137">
+        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-172" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-173" target="wB2qTIF_pQX-QRq0Hj0j-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-173" value="控制逻辑" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="163" y="430" width="62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-174" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-175" target="wB2qTIF_pQX-QRq0Hj0j-134">
+        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-174" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-175" target="wB2qTIF_pQX-QRq0Hj0j-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-175" value="控制逻辑" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
