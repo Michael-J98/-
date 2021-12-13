@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T12:03:46.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="ri_-uQHoLjbtkplWKCoL" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T12:52:07.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="zswTWYINW9QeV-utF7dm" version="15.9.1" type="github">
   <diagram id="06Hv0IDrocFG8YHfGYAS" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,9 +10,6 @@
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-68" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-70" target="wB2qTIF_pQX-QRq0Hj0j-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-69" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-70" target="wB2qTIF_pQX-QRq0Hj0j-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-70" value="冷却塔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="159" y="130" width="50" height="30" as="geometry" />
         </mxCell>
@@ -20,6 +17,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-72" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-73" target="wB2qTIF_pQX-QRq0Hj0j-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wB2qTIF_pQX-QRq0Hj0j-176" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wB2qTIF_pQX-QRq0Hj0j-73" target="wB2qTIF_pQX-QRq0Hj0j-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wB2qTIF_pQX-QRq0Hj0j-73" value="空气" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="1">
