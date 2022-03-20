@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T08:23:19.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="17.1.3" etag="pc1zQpRi2ni0dRis1toJ" type="github"><diagram id="bS0XMp3xz6GnLwFLVG8J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-20T09:41:55.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hH1_0mnrj63UyMr6T1qs" version="17.1.3" type="github">
+  <diagram id="bS0XMp3xz6GnLwFLVG8J" name="Page-1">
+    <mxGraphModel dx="1483" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-1" target="rEbiXOGDdCjvVAH_h41P-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-1" value="用户能耗数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-2" target="rEbiXOGDdCjvVAH_h41P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-2" value="分类用户&lt;br&gt;能耗数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="145" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-3" target="rEbiXOGDdCjvVAH_h41P-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-3" value="用户分项&lt;br&gt;能耗数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="145" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-4" target="rEbiXOGDdCjvVAH_h41P-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-4" value="负荷分解模型" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-5" target="rEbiXOGDdCjvVAH_h41P-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-5" value="用户分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-6" target="rEbiXOGDdCjvVAH_h41P-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-6" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-7" target="rEbiXOGDdCjvVAH_h41P-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-7" target="rEbiXOGDdCjvVAH_h41P-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="270" />
+              <mxPoint x="350" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-7" value="分项碳排放&lt;br&gt;预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-8" target="rEbiXOGDdCjvVAH_h41P-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-8" value="碳效异常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-9" target="rEbiXOGDdCjvVAH_h41P-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-9" value="运维优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rEbiXOGDdCjvVAH_h41P-10" target="rEbiXOGDdCjvVAH_h41P-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="370" />
+              <mxPoint x="340" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-10" value="碳排放效率规则库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rEbiXOGDdCjvVAH_h41P-20" value="节碳潜力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
