@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T04:19:35.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="17.4.0" etag="csEVvzQuEh--c7ifVPwx" type="github"><diagram id="_W5jbxPVYk4ZzfQ9T6Hq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T09:17:36.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="HXMJHlL5KJgCWfLFYhlI" version="17.4.0" type="github">
+  <diagram id="_W5jbxPVYk4ZzfQ9T6Hq" name="Page-1">
+    <mxGraphModel dx="1483" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mcXJ3X2cqrKHdGW33n3R-1" value="Weekly Power Consumption" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mcXJ3X2cqrKHdGW33n3R-2" value="CV" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="275" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mcXJ3X2cqrKHdGW33n3R-3" value="FAM-Ⅰ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="940" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mcXJ3X2cqrKHdGW33n3R-4" value="FAM-Ⅱ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="940" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mcXJ3X2cqrKHdGW33n3R-5" value="FULLM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="940" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mcXJ3X2cqrKHdGW33n3R-6" value="RM-Ⅰ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="760" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mcXJ3X2cqrKHdGW33n3R-7" value="RM-Ⅱ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="760" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
