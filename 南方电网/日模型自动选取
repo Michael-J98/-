@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T16:32:13.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="17.4.1" etag="DPhMKJr-nGbO81l4BlUx" type="github"><diagram id="8NxbQF0S9vE23OqpJgmf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-09T03:02:55.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="jOoKBISgfQWqrpGjNoL0" version="17.4.1" type="github">
+  <diagram id="8NxbQF0S9vE23OqpJgmf" name="Page-1">
+    <mxGraphModel dx="603" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nem6hKph13xNDinl8eAZ-1" value="Daily Power Consumption(E)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="279" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-2" value="ρ&lt;sub&gt;E-ww&lt;/sub&gt;&amp;gt;β&lt;sub&gt;E-WW&lt;/sub&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="274" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-10" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-3" target="Nem6hKph13xNDinl8eAZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-40" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-3" target="Nem6hKph13xNDinl8eAZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-3" value="CV&lt;sub&gt;E,W&lt;/sub&gt;&amp;gt;α" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="274" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-13" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-4" target="Nem6hKph13xNDinl8eAZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-39" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-4" target="Nem6hKph13xNDinl8eAZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-4" value="CV&lt;sub&gt;E,W&lt;/sub&gt;∈Total or&amp;nbsp;&lt;br&gt;CV&lt;sub&gt;E,W&lt;/sub&gt;∈HVAC" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="272.5" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-6" value="FAM(2)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="169" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-7" value="FULLM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="489" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-8" value="RM-Ⅰ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="990" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-9" value="RM-Ⅱ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="850" y="850" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-31" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-11" target="Nem6hKph13xNDinl8eAZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-38" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-11" target="Nem6hKph13xNDinl8eAZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-11" value="ρ&lt;sub&gt;E-HVAC&lt;/sub&gt;&amp;gt;β" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="655" y="489" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-19" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-12" target="Nem6hKph13xNDinl8eAZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-32" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-12" target="Nem6hKph13xNDinl8eAZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-12" value="percision test" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="625" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-15" value="RM-Ⅲ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="990" y="625" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-29" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-20" target="Nem6hKph13xNDinl8eAZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-35" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-20" target="Nem6hKph13xNDinl8eAZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-20" value="CV&lt;sub&gt;E,S,W&lt;/sub&gt;&amp;gt;α" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="275" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-28" value="FAM(4)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="169" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-33" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-30" target="Nem6hKph13xNDinl8eAZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-34" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nem6hKph13xNDinl8eAZ-30" target="Nem6hKph13xNDinl8eAZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nem6hKph13xNDinl8eAZ-30" value="percision test" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
