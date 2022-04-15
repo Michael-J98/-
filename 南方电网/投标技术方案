@@ -1,1 +1,201 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T08:45:37.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="17.4.4" etag="0pbp6f8SxyNZdJAFuHTO" type="github"><diagram id="uSBgTbv_MUFPjnWkkkd7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-15T12:47:41.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="q1nFHcY8_flVz487_IPX" version="17.4.4" type="github" pages="5">
+  <diagram id="uSBgTbv_MUFPjnWkkkd7" name="技术路线总览">
+    <mxGraphModel dx="2638" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A0n2HZMVZf5pQOwI7k8z-4" value="数据地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="520" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="基础信息" link="data:page/id,5T10gxnH9bw9syx6vmGE" id="A0n2HZMVZf5pQOwI7k8z-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="300" y="240" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="负荷信息" link="data:page/id,Q5Pd1kJFM65PkmI7GgK9" id="A0n2HZMVZf5pQOwI7k8z-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="300" y="290" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="行业信息" link="data:page/id,keDlB1ty1EWDccIrOOoD" id="A0n2HZMVZf5pQOwI7k8z-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="300" y="340" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="A0n2HZMVZf5pQOwI7k8z-8" value="用户数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="295" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0n2HZMVZf5pQOwI7k8z-11" value="格式转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="190" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="A0n2HZMVZf5pQOwI7k8z-12" value="数据导入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A0n2HZMVZf5pQOwI7k8z-13" value="数据筛除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="190" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="A0n2HZMVZf5pQOwI7k8z-14" value="新增/修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="190" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mrQ1p_HSSBiE7_FKo0gz-1" value="&lt;b&gt;增&lt;/b&gt;删改&lt;b&gt;查&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33vfZlKP3jpnraXdfjW0-1" value="馈线数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33vfZlKP3jpnraXdfjW0-2" value="变电站数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33vfZlKP3jpnraXdfjW0-4" value="原始数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0Fq3Pdn_gbVKkz0FtbK-1" value="地区数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0Fq3Pdn_gbVKkz0FtbK-2" value="空间聚合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M_Uui2Y2SM-0fePQ1leY-2" value="自动采集接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M_Uui2Y2SM-0fePQ1leY-3" value="Excel工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zf_FZEAMdHYtCn9IOVm-1" value="配变数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eY-n-LSoG3p024TDG6mL-1" value="实用系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="160" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="B8HlS8hVoFOV0gjfvQWs-1" value="阶段系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="160" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="B8HlS8hVoFOV0gjfvQWs-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="310" as="sourcePoint" />
+            <mxPoint x="130" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B8HlS8hVoFOV0gjfvQWs-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="359.5" as="sourcePoint" />
+            <mxPoint x="40" y="359.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5T10gxnH9bw9syx6vmGE" name="基础数据">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-1" value="基础数据字段" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="140" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-2" value="用户ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-3" value="用户名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIqw2HNybl2fPDYWMT-S-1" value="用户所在地" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-7" value="报装时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-6" value="报装容量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-5" value="建筑面积" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-4" value="行业名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-9" value="馈线名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkpzjp5LpXKSdffDUi4E-1" value="配电变压器信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol3umCbyFBlEwrJEqpYQ-8" value="变电站名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ol3umCbyFBlEwrJEqpYQ-1">
+          <mxGeometry y="300" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q5Pd1kJFM65PkmI7GgK9" name="负荷数据">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PLJ8B33hsgXsiEW5bPPu-1" value="负荷数据字段" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="PLJ8B33hsgXsiEW5bPPu-2" value="终期负荷？" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PLJ8B33hsgXsiEW5bPPu-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLJ8B33hsgXsiEW5bPPu-3" value="各年峰值负荷" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PLJ8B33hsgXsiEW5bPPu-1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bvo_vhS5leYY8D64S1w8-1" value="行业用户数量占比？" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PLJ8B33hsgXsiEW5bPPu-1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bvo_vhS5leYY8D64S1w8-2" value="日负荷数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PLJ8B33hsgXsiEW5bPPu-1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PLJ8B33hsgXsiEW5bPPu-4" value="月负荷数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PLJ8B33hsgXsiEW5bPPu-1">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bvo_vhS5leYY8D64S1w8-3" value="年负荷数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PLJ8B33hsgXsiEW5bPPu-1">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="keDlB1ty1EWDccIrOOoD" name="行业数据">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ale1PHINHahmNPkS2LGl-1" value="行业数据字段" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ale1PHINHahmNPkS2LGl-8" value="门类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="ale1PHINHahmNPkS2LGl-1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ale1PHINHahmNPkS2LGl-6" value="大类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="ale1PHINHahmNPkS2LGl-1">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ale1PHINHahmNPkS2LGl-7" value="中类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="ale1PHINHahmNPkS2LGl-1">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ale1PHINHahmNPkS2LGl-5" value="小类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="ale1PHINHahmNPkS2LGl-1">
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ale1PHINHahmNPkS2LGl-2" value="当前行业用户总数量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="ale1PHINHahmNPkS2LGl-1">
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ale1PHINHahmNPkS2LGl-3" value="当前行业用户日负荷曲线数量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="ale1PHINHahmNPkS2LGl-1">
+          <mxGeometry y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ale1PHINHahmNPkS2LGl-4" value="当前行业用户月负荷曲线数量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="ale1PHINHahmNPkS2LGl-1">
+          <mxGeometry y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ale1PHINHahmNPkS2LGl-9" value="当前行业用户年负荷曲线数量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="ale1PHINHahmNPkS2LGl-1">
+          <mxGeometry y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bYqLdRqfTCAAXJJj85s-" name="数据解析方式">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
