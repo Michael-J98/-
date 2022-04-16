@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T09:07:56.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IjuLhg4O8xR4TedSZZqt" version="17.4.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-16T10:11:10.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wpWh4WgCDOXLUXT8QWqS" version="17.4.4" type="github" pages="8">
   <diagram id="i5XCzAloUWG0jaC62Oc6" name="软件技术路线总览">
-    <mxGraphModel dx="989" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-_gy99j5oRCfDbJ-AeiT-16" value="数据版本" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="980" height="600" as="geometry" />
+        <mxCell id="-_gy99j5oRCfDbJ-AeiT-16" value="版本" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="930" height="600" as="geometry" />
         </mxCell>
         <mxCell id="-_gy99j5oRCfDbJ-AeiT-18" value="一次数据" style="swimlane;horizontal=0;" vertex="1" parent="-_gy99j5oRCfDbJ-AeiT-16">
           <mxGeometry x="35" y="130" width="200" height="100" as="geometry" />
@@ -118,7 +118,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="i5ykqWJHTAMHBIIYfL3s-3" value="负荷特征库" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="620" y="230" width="470" height="470" as="geometry" />
+          <mxGeometry x="620" y="230" width="420" height="470" as="geometry" />
         </mxCell>
         <mxCell id="RZeeRkGSMieAsf5NYCI_-1" value="负荷曲线" style="swimlane;horizontal=0;" vertex="1" parent="i5ykqWJHTAMHBIIYfL3s-3">
           <mxGeometry x="170" y="175" width="200" height="265" as="geometry" />
@@ -166,9 +166,6 @@
         </mxCell>
         <mxCell id="lyMfm7vjK79KlITpiMsc-15" value="其他" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="lyMfm7vjK79KlITpiMsc-10">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lyMfm7vjK79KlITpiMsc-16" value="可视化、图表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i5ykqWJHTAMHBIIYfL3s-3">
-          <mxGeometry x="80" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <UserObject label="计算指标" link="data:page/id,VK2jK2xf2U6jPE1ac82x" id="i5ykqWJHTAMHBIIYfL3s-5">
           <mxCell style="swimlane;horizontal=0;" vertex="1" parent="i5ykqWJHTAMHBIIYfL3s-3">
@@ -262,21 +259,21 @@
         <UserObject label="展示" link="data:page/id,4pHg5HV4TcjjUxqF-6uO" id="0icImunaNPxyaqJYgTAH-7">
           <mxCell style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="1120" y="426.64" as="sourcePoint" />
-              <mxPoint x="1255" y="426.2199999999999" as="targetPoint" />
+              <mxPoint x="1070" y="412.96999999999997" as="sourcePoint" />
+              <mxPoint x="1205" y="412.5499999999999" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
         <mxCell id="0icImunaNPxyaqJYgTAH-8" value="导出" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="480.41999999999996" as="sourcePoint" />
-            <mxPoint x="1255" y="479.9999999999999" as="targetPoint" />
+            <mxPoint x="1070" y="466.74999999999994" as="sourcePoint" />
+            <mxPoint x="1205" y="466.32999999999987" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0icImunaNPxyaqJYgTAH-10" value="留存" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="530.42" as="sourcePoint" />
-            <mxPoint x="1255" y="529.9999999999999" as="targetPoint" />
+            <mxPoint x="1070" y="516.75" as="sourcePoint" />
+            <mxPoint x="1205" y="516.3299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HDvza4o4Ar8Yd1CKueay-22" value="数据地图" style="swimlane;" vertex="1" parent="1">
@@ -346,7 +343,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2xU1YgI1GsIJ2JaIh8OJ" name="数据预处理">
-    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,7 +443,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dhFq5GHS4BGmpBA_7SFL" name="负荷曲线提取方法">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -472,7 +469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZA1bHzJ8aGjQMLDJUPsO" name="曲线聚类与标签生成">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -558,7 +555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VK2jK2xf2U6jPE1ac82x" name="负荷特征指标">
-    <mxGraphModel dx="1298" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1598" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -592,7 +589,7 @@
         <mxCell id="oPi7MEEs56ZSLkMOajlT-25" value="阶段系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oPi7MEEs56ZSLkMOajlT-5">
           <mxGeometry x="40" y="80" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oPi7MEEs56ZSLkMOajlT-6" value="频域" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="oPi7MEEs56ZSLkMOajlT-6" value="频域分析" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="1300" y="90" width="200" height="670" as="geometry" />
         </mxCell>
         <mxCell id="oPi7MEEs56ZSLkMOajlT-26" value="小波变换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="oPi7MEEs56ZSLkMOajlT-6">
@@ -620,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uSBgTbv_MUFPjnWkkkd7" name="用户数据">
-    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -721,7 +718,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9b5aAr6jFgrM6HGDvjQm" name="数据导入处理">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -813,7 +810,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4pHg5HV4TcjjUxqF-6uO" name="数据展示">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
