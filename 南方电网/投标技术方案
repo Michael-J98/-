@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T10:18:33.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="12RB4XVBy-5sSmxCwZmX" version="17.4.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-16T10:21:09.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LUWtI1bsp6YkqQZC1DFk" version="17.4.4" type="github" pages="8">
   <diagram id="i5XCzAloUWG0jaC62Oc6" name="软件技术路线总览">
     <mxGraphModel dx="1420" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -590,10 +590,19 @@
           <mxGeometry x="40" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oPi7MEEs56ZSLkMOajlT-5" value="阶段系数" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="90" width="200" height="670" as="geometry" />
+          <mxGeometry x="1100" y="90" width="360" height="670" as="geometry" />
         </mxCell>
         <mxCell id="oPi7MEEs56ZSLkMOajlT-25" value="阶段系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oPi7MEEs56ZSLkMOajlT-5">
           <mxGeometry x="40" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UO9TIsA4gmZS9rYn8ggE-1" value="实用系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oPi7MEEs56ZSLkMOajlT-5">
+          <mxGeometry x="-160" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UO9TIsA4gmZS9rYn8ggE-2" value="阶段系数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oPi7MEEs56ZSLkMOajlT-5">
+          <mxGeometry x="40" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UO9TIsA4gmZS9rYn8ggE-3" value="小波变换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="oPi7MEEs56ZSLkMOajlT-5">
+          <mxGeometry x="240" y="410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oPi7MEEs56ZSLkMOajlT-6" value="频域分析" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="1300" y="90" width="200" height="670" as="geometry" />
@@ -614,10 +623,10 @@
           <mxGeometry x="160" y="430" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oPi7MEEs56ZSLkMOajlT-27" value="直观描述型" style="swimlane;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="400" width="620" height="120" as="geometry" />
+          <mxGeometry x="320" y="400" width="570" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oPi7MEEs56ZSLkMOajlT-28" value="比值描述型" style="swimlane;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="520" width="620" height="120" as="geometry" />
+          <mxGeometry x="320" y="520" width="570" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -876,7 +885,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y6xjM8xVtc019nxEarDy-22" value="独立" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Y6xjM8xVtc019nxEarDy-20">
+        <mxCell id="Y6xjM8xVtc019nxEarDy-22" value="离散" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Y6xjM8xVtc019nxEarDy-20">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -894,7 +903,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y6xjM8xVtc019nxEarDy-26" value="聚合" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Y6xjM8xVtc019nxEarDy-24">
+        <mxCell id="Y6xjM8xVtc019nxEarDy-26" value="整体" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Y6xjM8xVtc019nxEarDy-24">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
