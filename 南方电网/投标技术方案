@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T10:14:31.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="e2rFigIQITtJwcf7WYHU" version="17.4.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-16T10:18:33.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="12RB4XVBy-5sSmxCwZmX" version="17.4.4" type="github" pages="8">
   <diagram id="i5XCzAloUWG0jaC62Oc6" name="软件技术路线总览">
     <mxGraphModel dx="1420" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
           <mxGeometry x="990" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FBmx0dYxfqRwZ19NpNo2-1" value="聚类范围" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="435" width="140" height="120" as="geometry" />
+          <mxGeometry x="380" y="450" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FBmx0dYxfqRwZ19NpNo2-2" value="同行业下若干用户" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="FBmx0dYxfqRwZ19NpNo2-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -548,8 +548,14 @@
         <mxCell id="FBmx0dYxfqRwZ19NpNo2-3" value="跨行业下若干用户" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="FBmx0dYxfqRwZ19NpNo2-1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FBmx0dYxfqRwZ19NpNo2-4" value="其他" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="FBmx0dYxfqRwZ19NpNo2-1">
+        <mxCell id="FBmx0dYxfqRwZ19NpNo2-4" value="自定义" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="FBmx0dYxfqRwZ19NpNo2-1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWxXSDX_98J5EyBb_bUn-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.5" y="440" as="sourcePoint" />
+            <mxPoint x="449.5" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
