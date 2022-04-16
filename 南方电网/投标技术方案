@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T10:38:37.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="e5qgFfuiGKZVFAxVtSUm" version="17.4.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-16T14:50:22.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="bZQvzL6DQGd_wvgzCpsv" version="17.4.4" type="github" pages="8">
   <diagram id="i5XCzAloUWG0jaC62Oc6" name="软件技术路线总览">
-    <mxGraphModel dx="1345" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2556" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,7 +343,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2xU1YgI1GsIJ2JaIh8OJ" name="数据预处理">
-    <mxGraphModel dx="1278" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,6 +439,9 @@
             <mxPoint x="319.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kav11WRYa9jxeP7xuKwc-1" value="carry师兄预处理方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -465,11 +468,14 @@
         <mxCell id="phQc2UfRkO3zalIkXXad-6" value="其他" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="phQc2UfRkO3zalIkXXad-1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bxvUqA4So8LBXtqfpRro-1" value="大宝师兄负荷曲线提取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ZA1bHzJ8aGjQMLDJUPsO" name="曲线聚类与标签生成">
-    <mxGraphModel dx="1278" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,11 +563,14 @@
             <mxPoint x="449.5" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Sf7sJWeo0-20mLsUrKaB-1" value="沙师姐曲线聚类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="VK2jK2xf2U6jPE1ac82x" name="负荷特征指标">
-    <mxGraphModel dx="1598" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1598" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -628,11 +637,17 @@
         <mxCell id="oPi7MEEs56ZSLkMOajlT-28" value="比值描述型" style="swimlane;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="520" width="570" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="YqsYnvAC-0rLOuorj3-3-1" value="沙师姐、肖桐师姐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YqsYnvAC-0rLOuorj3-3-2" value="李梦西论文" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="800" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="uSBgTbv_MUFPjnWkkkd7" name="用户数据">
-    <mxGraphModel dx="1504" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -733,7 +748,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9b5aAr6jFgrM6HGDvjQm" name="数据导入处理">
-    <mxGraphModel dx="1278" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -783,7 +798,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hp2O1G5ZdtlBEBufCmKE-7" value="数据质量报告" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="140" width="140" height="120" as="geometry" />
+          <mxGeometry x="1000" y="140" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hp2O1G5ZdtlBEBufCmKE-8" value="指标1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="hp2O1G5ZdtlBEBufCmKE-7">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
