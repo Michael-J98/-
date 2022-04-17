@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T01:41:20.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BVaUkB4tbiiNSjR09Y4y" version="17.4.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-17T01:56:09.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qkMsRSoPZmnCv5UqXfNr" version="17.4.5" type="github" pages="8">
   <diagram id="i5XCzAloUWG0jaC62Oc6" name="软件技术路线总览">
-    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-_gy99j5oRCfDbJ-AeiT-16" value="版本" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="230" y="540" width="930" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="B9jmkOLV8pWbpK9Swksp-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="-_gy99j5oRCfDbJ-AeiT-16">
+          <mxGeometry x="570" y="540" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B9jmkOLV8pWbpK9Swksp-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="-_gy99j5oRCfDbJ-AeiT-16">
+          <mxGeometry x="235" y="540" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B9jmkOLV8pWbpK9Swksp-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="-_gy99j5oRCfDbJ-AeiT-16">
+          <mxGeometry x="225" y="240" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-_gy99j5oRCfDbJ-AeiT-18" value="一次数据" style="swimlane;horizontal=0;" parent="-_gy99j5oRCfDbJ-AeiT-16" vertex="1">
           <mxGeometry x="35" y="130" width="200" height="100" as="geometry" />
@@ -119,6 +128,12 @@
         </UserObject>
         <mxCell id="i5ykqWJHTAMHBIIYfL3s-3" value="负荷特征库" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="690" y="570" width="420" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="B9jmkOLV8pWbpK9Swksp-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="i5ykqWJHTAMHBIIYfL3s-3">
+          <mxGeometry y="230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B9jmkOLV8pWbpK9Swksp-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="i5ykqWJHTAMHBIIYfL3s-3">
+          <mxGeometry x="25" y="150" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RZeeRkGSMieAsf5NYCI_-1" value="负荷曲线" style="swimlane;horizontal=0;" parent="i5ykqWJHTAMHBIIYfL3s-3" vertex="1">
           <mxGeometry x="170" y="175" width="200" height="265" as="geometry" />
