@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T01:45:37.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="17.4.6" etag="nN9RTXyOLNLUOEHE6yHM" type="github"><diagram id="6SEmXdp0qPVeEaLjmIPl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-25T03:23:09.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UNCmA8Ud54w5lx6XuFrx" version="17.4.6" type="github">
+  <diagram id="6SEmXdp0qPVeEaLjmIPl" name="Page-1">
+    <mxGraphModel dx="868" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2rR1UYdaJ0CxvAhAb_gy-1" value="非集中式厂商、&lt;br&gt;非储能者报价" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rR1UYdaJ0CxvAhAb_gy-2" value="集中式厂商、&lt;br&gt;储能者报价" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rR1UYdaJ0CxvAhAb_gy-5" value="交易撮合" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rR1UYdaJ0CxvAhAb_gy-6" value="信用检测" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rR1UYdaJ0CxvAhAb_gy-8" value="能源核销" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rR1UYdaJ0CxvAhAb_gy-13" value="金额/信用结算" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rR1UYdaJ0CxvAhAb_gy-15" value="信用交易" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="460" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
