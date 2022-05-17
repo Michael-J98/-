@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T01:03:10.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="18.0.3" etag="B5Z9CrbUDtkxCNoUhHXg" type="github"><diagram id="CXxKQLzsscV0f1U90lEd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-17T01:31:57.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Os4dnJEGwip0spJrKXY7" version="18.0.3" type="github">
+  <diagram id="CXxKQLzsscV0f1U90lEd" name="Page-1">
+    <mxGraphModel dx="964" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-1" value="总/分项负荷数据收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-2" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-3" value="能耗基准模型（周）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-4" value="能耗基准模型（日）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-5" target="O1ZfQPK6WOp56eG7BwXn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-5" value="能耗基准模型（时）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-7" value="工程经验模型" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="240" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-13" target="O1ZfQPK6WOp56eG7BwXn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-13" value="负荷分解模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="70" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-14" target="O1ZfQPK6WOp56eG7BwXn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-14" target="O1ZfQPK6WOp56eG7BwXn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-14" value="分项能耗" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="380" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-15" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="310" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-16" value="通用基础" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-15">
+          <mxGeometry x="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-18" target="O1ZfQPK6WOp56eG7BwXn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-18" value="实测能耗" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="175" y="470" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-19" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="210" width="235" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-20" value="碳排放因子不变" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-19">
+          <mxGeometry x="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-6" value="能效异常评价方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-19">
+          <mxGeometry x="60" y="170" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-21" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-22" value="碳排放因子变化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-21">
+          <mxGeometry x="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-9" value="负荷曲线变化类型" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-21">
+          <mxGeometry x="10" y="30" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-11" value="光伏发电模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-21">
+          <mxGeometry x="50" y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-12" value="运筹规划求解" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-21">
+          <mxGeometry x="220" y="30" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-10" value="峰值负荷削减模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-21">
+          <mxGeometry x="50" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-8" value="冰蓄冷负荷转移模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O1ZfQPK6WOp56eG7BwXn-21">
+          <mxGeometry x="50" y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-29" value="修复碳效异常" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-6" target="O1ZfQPK6WOp56eG7BwXn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-31" value="指导节碳改造" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="565" y="470" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-33" target="O1ZfQPK6WOp56eG7BwXn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-33" value="理论节碳极限" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-34" target="O1ZfQPK6WOp56eG7BwXn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-34" value="分项节碳贡献" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-12" target="O1ZfQPK6WOp56eG7BwXn-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1ZfQPK6WOp56eG7BwXn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1ZfQPK6WOp56eG7BwXn-12" target="O1ZfQPK6WOp56eG7BwXn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
