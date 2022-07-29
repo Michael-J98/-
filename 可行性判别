@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T12:38:08.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3g1a5Vw_atu2D2clObNm" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T14:05:32.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XXnYMpfVm6SrsShB-xu3" version="20.0.3" type="github">
   <diagram id="wtRjL81n_W3azqFA_a32" name="Page-1">
     <mxGraphModel dx="1209" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,14 +46,59 @@
         <mxCell id="X8obFSTfyXkm0SdJpnkL-15" value="Unknown Parent" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="70" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X8obFSTfyXkm0SdJpnkL-17" value="&lt;h1&gt;Description&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Object：inference A1&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A2 = F2(SP)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;A3 = F3(SP, UP)&lt;/p&gt;&lt;p&gt;Am = G(A2, A3)~An&lt;/p&gt;&lt;p&gt;SP = Fn&lt;sup&gt;-1&lt;/sup&gt;(An) = F2&lt;sup&gt;-1&lt;/sup&gt;(A2)&lt;/p&gt;&lt;p&gt;A1 = F1(SP)&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;KeyPoints:&lt;/p&gt;&lt;p&gt;1. Find an Atrribution who only has Super Parent as its parent node.----the deviation of the attribution for the similar values of super parent node should be as small as possible.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. The inverse function exists.----&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;the deviation of the attribution for the dissimilar values of super parent node should be as large as possible.&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="20" width="360" height="270" as="geometry" />
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-17" value="&lt;h1&gt;Description&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Object：inference A1&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A2 = F2(SP)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;A3 = F3(SP, UP)&lt;/p&gt;&lt;p&gt;Am = G(A2, A3)~An&lt;/p&gt;&lt;p&gt;SP = Fn&lt;sup&gt;-1&lt;/sup&gt;(An) = F2&lt;sup&gt;-1&lt;/sup&gt;(A2)&lt;/p&gt;&lt;p&gt;A1 = F1(SP)&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;KeyPoints:&lt;/p&gt;&lt;p&gt;1. Find an Atrribution who only has Super Parent as its parent node.----the deviation of the attribution for the &lt;u&gt;similar&lt;/u&gt; values of Super Parent node should be as small as possible.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. The inverse function exists.----&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;It&#39;s a monotonic function. the deviation of the attribution for the &lt;u&gt;dissimilar&lt;/u&gt; values of Super Parent node should be as large as possible.&amp;nbsp;&lt;br&gt;&lt;br&gt;3. The state of Super Parent can be described.&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="360" height="310" as="geometry" />
         </mxCell>
         <mxCell id="X8obFSTfyXkm0SdJpnkL-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="X8obFSTfyXkm0SdJpnkL-18" target="X8obFSTfyXkm0SdJpnkL-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X8obFSTfyXkm0SdJpnkL-18" value="Alternative&lt;br&gt;Attribution m" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="405" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8obFSTfyXkm0SdJpnkL-27" target="X8obFSTfyXkm0SdJpnkL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8obFSTfyXkm0SdJpnkL-27" target="X8obFSTfyXkm0SdJpnkL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8obFSTfyXkm0SdJpnkL-27" target="X8obFSTfyXkm0SdJpnkL-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8obFSTfyXkm0SdJpnkL-27" target="X8obFSTfyXkm0SdJpnkL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-27" value="特定瓜对象" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-28" value="瓜品质" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.033;entryY=0.288;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X8obFSTfyXkm0SdJpnkL-30" target="X8obFSTfyXkm0SdJpnkL-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-30" value="色泽" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X8obFSTfyXkm0SdJpnkL-32" target="X8obFSTfyXkm0SdJpnkL-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-32" value="根蒂" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-33" value="未知描述属性" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="475" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-34" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="715" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="X8obFSTfyXkm0SdJpnkL-38" target="X8obFSTfyXkm0SdJpnkL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-38" value="代替属性描述" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="375" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8obFSTfyXkm0SdJpnkL-39" value="&lt;h1&gt;决策树&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Object：inference A1&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A2 = F2(SP)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;A3 = F3(SP, UP)&lt;/p&gt;&lt;p&gt;Am = G(A2, A3)~An&lt;/p&gt;&lt;p&gt;SP = Fn&lt;sup&gt;-1&lt;/sup&gt;(An) = F2&lt;sup&gt;-1&lt;/sup&gt;(A2)&lt;/p&gt;&lt;p&gt;A1 = F1(SP)&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;KeyPoints:&lt;/p&gt;&lt;p&gt;1. 色泽、根蒂满足条件1（但显然通过瓜品质这一属性划分的瓜对象，他们在色泽、根蒂上的方差并不小）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. 色泽、根蒂不满足条件2，&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="557" width="360" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
